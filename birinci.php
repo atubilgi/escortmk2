@@ -1,0 +1,5 @@
+<?php
+
+birinci commit
+
+?>
